@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Azure.Core" Version="1.46.1" />
     <PackageReference Include="Azure.Identity" Version="1.14.0" />
+    <PackageReference Include="Devlead.Statiq" Version="2025.5.14.118" />
     <PackageReference Include="Microsoft.Build.Tasks.Core" Version="17.14.8" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />

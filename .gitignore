@@ -406,3 +406,6 @@ FodyWeavers.xsd
 # Unused code and data
 \@Archive/
 \@ Archive/
+
+# Skip any downloaded Statiq theme files instead of checking them in
+[Tt]heme/
